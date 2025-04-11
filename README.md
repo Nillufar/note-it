@@ -1,3 +1,3 @@
 ##Simple to do list
 
-Simple project to review
+Simple project to review & simple todo list
